@@ -5,7 +5,7 @@ It has been modified to work with data using the PascalVOC format.
 ## How to use
 The folder data extraction contains all the code nescessary to convert the two .avi files into frames. If the user wants to make one large dataset it is possible using the mergedata.py script. 
 
-The train folder contains the notebook and all of its dependencies required to train the model. 
+The train folder contains the notebook named "pytorchModel.ipynb" and all of its dependencies required to train the model. 
 
 The demo folder contain a simple script, objectTrackerDemo.py, that uses a trained model to track the desired object. Due to size contraints no model is uploaded here. 
 
